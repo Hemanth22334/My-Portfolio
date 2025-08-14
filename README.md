@@ -5,7 +5,7 @@
 A simple, fast, and mobile-friendly portfolio showcasing my projects, skills, and contact details. Built with **HTML, CSS, and JavaScript**.
 
 ## 🔗 Live Demo
-- **Website:** https://<your-username>.github.io/<repo-name>/
+- **Website:**  https://hemanth22334.github.io/My-Portfolio/
 - **Repository:** https://github.com/<your-username>/<repo-name>
 
 ## ✨ Features
