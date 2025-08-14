@@ -6,7 +6,7 @@ A simple, fast, and mobile-friendly portfolio showcasing my projects, skills, an
 
 ## 🔗 Live Demo
 - **Website:**  https://hemanth22334.github.io/My-Portfolio/
-- **Repository:** https://github.com/<your-username>/<repo-name>
+- **Repository:** [My-Portfolio](https://github.com/Hemanth22334/My-Portfolio/tree/main)
 
 ## ✨ Features
 - Clean, responsive layout for desktop & mobile
@@ -25,7 +25,7 @@ A simple, fast, and mobile-friendly portfolio showcasing my projects, skills, an
 
 ## 📁 Folder Structure
 ```text
-<repo-name>/
+My-Portfolio
 ├─ assets/
 │  └─ images/
 │     ├─ 3idoits.jpg
