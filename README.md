@@ -17,7 +17,7 @@ A simple, fast, and mobile-friendly portfolio showcasing my projects, skills, an
 ## 🧪 Projects Included
 - **Birthday Invite** — a simple invitation page with a preview image
 - **Movie Ranking** — my top movies with short descriptions
-- **Animals Gallery** — image path practice (rabbit, cat, dog, fish, bird)
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, Vanilla JS
