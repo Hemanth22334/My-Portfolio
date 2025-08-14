@@ -26,21 +26,28 @@ A simple, fast, and mobile-friendly portfolio showcasing my projects, skills, an
 ## 📁 Folder Structure
 ```text
 <repo-name>/
-├─ 0/
-│  └─ index.html                 # main entry page
+├─ assets/
+│  └─ images/
+│     ├─ 3idoits.jpg
+│     ├─ Dil bechara.jpg
+│     ├─ Kai Po Che!.jpg
+│     ├─ birthday portfolio.png
+│     ├─ birthday-invite.png
+│     ├─ chhichhore.jpg
+│     ├─ meee.png
+│     ├─ movie rating msd.png
+│     ├─ msdhoni.jpg
+│     ├─ mybirthday.jpg
 ├─ public/
+│  ├─ about.html
 │  ├─ birthday-invite.html
-│  └─ movie-ranking.html
-├─ images/
-│  ├─ birthday-invite.png
-│  ├─ movie-rating.png
-│  ├─ rabbit.png
-│  └─ dog.png
-├─ Folder1/
-│  ├─ fish.png
-│  └─ Folder2/
-│     └─ bird.png
-├─ Folder3/
+│  ├─ contact.html
+│  ├─ movie-ranking.html
+├─ README.md
+├─ goal.png
+├─ index.html
+├─ solution.html
+
 │  └─ cat.png
 ├─ css/
 │  └─ style.css
